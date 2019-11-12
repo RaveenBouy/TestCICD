@@ -13,7 +13,7 @@ namespace CICD.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "THIS IS A LONG TEXT OHHHHHHH AAAAAAAAA"
+            "This is PROD"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
